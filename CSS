@@ -1,0 +1,39 @@
+
+header {                                         /*this code is for header*/
+    background-color: #888080;
+    text-align: center;
+    padding: 10px;
+   }
+   
+   
+   li {                                      /*this code is for navigation bar*/
+       display: inline;   
+   }
+   
+   ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+       background-color: #0c0d04;
+   }
+     
+     li {
+       float: left;
+     }
+     
+     li a {
+       display: block;
+       color: rgb(255, 255, 255);
+       text-align: center;
+       padding: 8px;
+       text-decoration: none;
+     }
+   
+     footer {                                             /*this code is for footer*/
+       background-color: #888080;
+       text-align: center;
+       padding: 50px;
+     }
+   
+   
